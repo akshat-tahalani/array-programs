@@ -16,8 +16,9 @@
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
 
-        check = dict()
-
+        check = dict()# we use a dictionary that contaimnsboth values and ist keys
+# we baically use thtidea that i ft the key exists it should alwys be the same value 
+# and if the key doesnt exist add  anew key before cheking thtat the same value is not assigned to  a different key 
 
         for i in range(len(s)):
             if s[i] not in check:
@@ -32,6 +33,9 @@ class Solution:
                     return False
               
 
-        return True            
+        return True       
+        #when the two conditions of unique mapping of keys and 
+        #ensuring that the value does not belong to a prior key   
+        #are confirmed then we can conclude that the string are isomorphioc   
 
 
