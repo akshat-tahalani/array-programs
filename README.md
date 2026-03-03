@@ -7,6 +7,7 @@ solving 32 array questions on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/akshat-tahalani/array-programs/tree/main/0076-minimum-window-substring/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/akshat-tahalani/array-programs/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0202-happy-number](https://github.com/akshat-tahalani/array-programs/tree/main/0202-happy-number/) | Easy |
 | [0290-word-pattern](https://github.com/akshat-tahalani/array-programs/tree/main/0290-word-pattern/) | Easy |
 ## String
@@ -32,4 +33,12 @@ solving 32 array questions on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/akshat-tahalani/array-programs/tree/main/0392-is-subsequence/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/akshat-tahalani/array-programs/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/akshat-tahalani/array-programs/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
