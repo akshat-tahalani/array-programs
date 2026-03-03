@@ -4,7 +4,9 @@
 
 # repreat the process untill number equals 1 
 
-# if all 1 then happy 
+# # Take a number. Break it into its individual digits, square each digit, and add them all up to get a new number. Repeat this process with the new number.
+# If you eventually reach 1, it's a happy number. If you never reach 1 and instead keep looping forever through the same numbers, it's not happy.
+# So your job is to detect those two cases — either you hit 1, or you see a number you've already seen before which means you're in a cycle.
 
 
 
