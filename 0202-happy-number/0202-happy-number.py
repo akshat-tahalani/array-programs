@@ -25,13 +25,14 @@ class Solution:
             sqsum = 0
             
             
-            seen.add(n)
+            seen.add(n) # and then when the loop resets adding the new n to the set 
             while n!=0 : 
                 sqsum += (n%10) **2
                 n= n//10
            
             
-            n = sqsum  
+            n = sqsum  #basically restting the sqsum and making it  an ew one to 
+            #be squared and added
             
         return sqsum == 1 
            
