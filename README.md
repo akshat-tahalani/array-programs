@@ -14,6 +14,7 @@ solving 32 array questions on leetcode
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/akshat-tahalani/array-programs/tree/main/0076-minimum-window-substring/) | Hard |
 | [0290-word-pattern](https://github.com/akshat-tahalani/array-programs/tree/main/0290-word-pattern/) | Easy |
+| [0392-is-subsequence](https://github.com/akshat-tahalani/array-programs/tree/main/0392-is-subsequence/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,4 +27,9 @@ solving 32 array questions on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/akshat-tahalani/array-programs/tree/main/0202-happy-number/) | Easy |
+| [0392-is-subsequence](https://github.com/akshat-tahalani/array-programs/tree/main/0392-is-subsequence/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/akshat-tahalani/array-programs/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
