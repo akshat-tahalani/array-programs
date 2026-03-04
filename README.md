@@ -41,4 +41,8 @@ solving 32 array questions on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/akshat-tahalani/array-programs/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0077-combinations](https://github.com/akshat-tahalani/array-programs/tree/main/0077-combinations/) | Medium |
 <!---LeetCode Topics End-->
