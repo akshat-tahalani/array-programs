@@ -15,6 +15,7 @@ solving 32 array questions on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshat-tahalani/array-programs/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/akshat-tahalani/array-programs/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/akshat-tahalani/array-programs/tree/main/0076-minimum-window-substring/) | Hard |
 | [0290-word-pattern](https://github.com/akshat-tahalani/array-programs/tree/main/0290-word-pattern/) | Easy |
 | [0392-is-subsequence](https://github.com/akshat-tahalani/array-programs/tree/main/0392-is-subsequence/) | Easy |
@@ -34,6 +35,7 @@ solving 32 array questions on leetcode
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/akshat-tahalani/array-programs/tree/main/0022-generate-parentheses/) | Medium |
 | [0392-is-subsequence](https://github.com/akshat-tahalani/array-programs/tree/main/0392-is-subsequence/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -47,5 +49,6 @@ solving 32 array questions on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshat-tahalani/array-programs/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/akshat-tahalani/array-programs/tree/main/0022-generate-parentheses/) | Medium |
 | [0077-combinations](https://github.com/akshat-tahalani/array-programs/tree/main/0077-combinations/) | Medium |
 <!---LeetCode Topics End-->
