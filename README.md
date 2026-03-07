@@ -17,6 +17,7 @@ solving 32 array questions on leetcode
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshat-tahalani/array-programs/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/akshat-tahalani/array-programs/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/akshat-tahalani/array-programs/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/akshat-tahalani/array-programs/tree/main/0079-word-search/) | Medium |
 | [0290-word-pattern](https://github.com/akshat-tahalani/array-programs/tree/main/0290-word-pattern/) | Easy |
 | [0392-is-subsequence](https://github.com/akshat-tahalani/array-programs/tree/main/0392-is-subsequence/) | Easy |
 ## Sliding Window
@@ -40,6 +41,7 @@ solving 32 array questions on leetcode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/akshat-tahalani/array-programs/tree/main/0079-word-search/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/akshat-tahalani/array-programs/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -51,4 +53,13 @@ solving 32 array questions on leetcode
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshat-tahalani/array-programs/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/akshat-tahalani/array-programs/tree/main/0022-generate-parentheses/) | Medium |
 | [0077-combinations](https://github.com/akshat-tahalani/array-programs/tree/main/0077-combinations/) | Medium |
+| [0079-word-search](https://github.com/akshat-tahalani/array-programs/tree/main/0079-word-search/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/akshat-tahalani/array-programs/tree/main/0079-word-search/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/akshat-tahalani/array-programs/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
