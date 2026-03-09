@@ -27,6 +27,7 @@ solving 32 array questions on leetcode
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/akshat-tahalani/array-programs/tree/main/0089-gray-code/) | Medium |
 | [0202-happy-number](https://github.com/akshat-tahalani/array-programs/tree/main/0202-happy-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -54,6 +55,7 @@ solving 32 array questions on leetcode
 | [0022-generate-parentheses](https://github.com/akshat-tahalani/array-programs/tree/main/0022-generate-parentheses/) | Medium |
 | [0077-combinations](https://github.com/akshat-tahalani/array-programs/tree/main/0077-combinations/) | Medium |
 | [0079-word-search](https://github.com/akshat-tahalani/array-programs/tree/main/0079-word-search/) | Medium |
+| [0089-gray-code](https://github.com/akshat-tahalani/array-programs/tree/main/0089-gray-code/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,4 +64,8 @@ solving 32 array questions on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/akshat-tahalani/array-programs/tree/main/0079-word-search/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0089-gray-code](https://github.com/akshat-tahalani/array-programs/tree/main/0089-gray-code/) | Medium |
 <!---LeetCode Topics End-->
