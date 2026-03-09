@@ -43,6 +43,7 @@ solving 32 array questions on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/akshat-tahalani/array-programs/tree/main/0040-combination-sum-ii/) | Medium |
+| [0047-permutations-ii](https://github.com/akshat-tahalani/array-programs/tree/main/0047-permutations-ii/) | Medium |
 | [0079-word-search](https://github.com/akshat-tahalani/array-programs/tree/main/0079-word-search/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/akshat-tahalani/array-programs/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Union-Find
@@ -55,6 +56,7 @@ solving 32 array questions on leetcode
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshat-tahalani/array-programs/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/akshat-tahalani/array-programs/tree/main/0022-generate-parentheses/) | Medium |
 | [0040-combination-sum-ii](https://github.com/akshat-tahalani/array-programs/tree/main/0040-combination-sum-ii/) | Medium |
+| [0047-permutations-ii](https://github.com/akshat-tahalani/array-programs/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/akshat-tahalani/array-programs/tree/main/0077-combinations/) | Medium |
 | [0079-word-search](https://github.com/akshat-tahalani/array-programs/tree/main/0079-word-search/) | Medium |
 | [0089-gray-code](https://github.com/akshat-tahalani/array-programs/tree/main/0089-gray-code/) | Medium |
@@ -70,4 +72,8 @@ solving 32 array questions on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/akshat-tahalani/array-programs/tree/main/0089-gray-code/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0047-permutations-ii](https://github.com/akshat-tahalani/array-programs/tree/main/0047-permutations-ii/) | Medium |
 <!---LeetCode Topics End-->
