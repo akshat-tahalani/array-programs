@@ -45,6 +45,7 @@ solving 32 array questions on leetcode
 | [0040-combination-sum-ii](https://github.com/akshat-tahalani/array-programs/tree/main/0040-combination-sum-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/akshat-tahalani/array-programs/tree/main/0047-permutations-ii/) | Medium |
 | [0079-word-search](https://github.com/akshat-tahalani/array-programs/tree/main/0079-word-search/) | Medium |
+| [0090-subsets-ii](https://github.com/akshat-tahalani/array-programs/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/akshat-tahalani/array-programs/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -60,6 +61,7 @@ solving 32 array questions on leetcode
 | [0077-combinations](https://github.com/akshat-tahalani/array-programs/tree/main/0077-combinations/) | Medium |
 | [0079-word-search](https://github.com/akshat-tahalani/array-programs/tree/main/0079-word-search/) | Medium |
 | [0089-gray-code](https://github.com/akshat-tahalani/array-programs/tree/main/0089-gray-code/) | Medium |
+| [0090-subsets-ii](https://github.com/akshat-tahalani/array-programs/tree/main/0090-subsets-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +74,7 @@ solving 32 array questions on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/akshat-tahalani/array-programs/tree/main/0089-gray-code/) | Medium |
+| [0090-subsets-ii](https://github.com/akshat-tahalani/array-programs/tree/main/0090-subsets-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
