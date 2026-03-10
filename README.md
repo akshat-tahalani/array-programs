@@ -39,6 +39,7 @@ solving 32 array questions on leetcode
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/akshat-tahalani/array-programs/tree/main/0022-generate-parentheses/) | Medium |
 | [0392-is-subsequence](https://github.com/akshat-tahalani/array-programs/tree/main/0392-is-subsequence/) | Easy |
+| [1774-closest-dessert-cost](https://github.com/akshat-tahalani/array-programs/tree/main/1774-closest-dessert-cost/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ solving 32 array questions on leetcode
 | [0090-subsets-ii](https://github.com/akshat-tahalani/array-programs/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/akshat-tahalani/array-programs/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/akshat-tahalani/array-programs/tree/main/1219-path-with-maximum-gold/) | Medium |
+| [1774-closest-dessert-cost](https://github.com/akshat-tahalani/array-programs/tree/main/1774-closest-dessert-cost/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +66,7 @@ solving 32 array questions on leetcode
 | [0089-gray-code](https://github.com/akshat-tahalani/array-programs/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/akshat-tahalani/array-programs/tree/main/0090-subsets-ii/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/akshat-tahalani/array-programs/tree/main/1219-path-with-maximum-gold/) | Medium |
+| [1774-closest-dessert-cost](https://github.com/akshat-tahalani/array-programs/tree/main/1774-closest-dessert-cost/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
