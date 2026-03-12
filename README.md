@@ -20,6 +20,7 @@ solving 32 array questions on leetcode
 | [0079-word-search](https://github.com/akshat-tahalani/array-programs/tree/main/0079-word-search/) | Medium |
 | [0290-word-pattern](https://github.com/akshat-tahalani/array-programs/tree/main/0290-word-pattern/) | Easy |
 | [0392-is-subsequence](https://github.com/akshat-tahalani/array-programs/tree/main/0392-is-subsequence/) | Easy |
+| [0942-di-string-match](https://github.com/akshat-tahalani/array-programs/tree/main/0942-di-string-match/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@ solving 32 array questions on leetcode
 | ------- | ------- |
 | [0202-happy-number](https://github.com/akshat-tahalani/array-programs/tree/main/0202-happy-number/) | Easy |
 | [0392-is-subsequence](https://github.com/akshat-tahalani/array-programs/tree/main/0392-is-subsequence/) | Easy |
+| [0942-di-string-match](https://github.com/akshat-tahalani/array-programs/tree/main/0942-di-string-match/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +50,7 @@ solving 32 array questions on leetcode
 | [0079-word-search](https://github.com/akshat-tahalani/array-programs/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/akshat-tahalani/array-programs/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/akshat-tahalani/array-programs/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0942-di-string-match](https://github.com/akshat-tahalani/array-programs/tree/main/0942-di-string-match/) | Easy |
 | [1219-path-with-maximum-gold](https://github.com/akshat-tahalani/array-programs/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1774-closest-dessert-cost](https://github.com/akshat-tahalani/array-programs/tree/main/1774-closest-dessert-cost/) | Medium |
 ## Union-Find
@@ -85,4 +88,8 @@ solving 32 array questions on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/akshat-tahalani/array-programs/tree/main/0047-permutations-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0942-di-string-match](https://github.com/akshat-tahalani/array-programs/tree/main/0942-di-string-match/) | Easy |
 <!---LeetCode Topics End-->
