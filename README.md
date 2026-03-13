@@ -52,6 +52,7 @@ solving 32 array questions on leetcode
 | [0090-subsets-ii](https://github.com/akshat-tahalani/array-programs/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/akshat-tahalani/array-programs/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0455-assign-cookies](https://github.com/akshat-tahalani/array-programs/tree/main/0455-assign-cookies/) | Easy |
+| [0605-can-place-flowers](https://github.com/akshat-tahalani/array-programs/tree/main/0605-can-place-flowers/) | Easy |
 | [0942-di-string-match](https://github.com/akshat-tahalani/array-programs/tree/main/0942-di-string-match/) | Easy |
 | [1219-path-with-maximum-gold](https://github.com/akshat-tahalani/array-programs/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1774-closest-dessert-cost](https://github.com/akshat-tahalani/array-programs/tree/main/1774-closest-dessert-cost/) | Medium |
@@ -95,5 +96,6 @@ solving 32 array questions on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/akshat-tahalani/array-programs/tree/main/0455-assign-cookies/) | Easy |
+| [0605-can-place-flowers](https://github.com/akshat-tahalani/array-programs/tree/main/0605-can-place-flowers/) | Easy |
 | [0942-di-string-match](https://github.com/akshat-tahalani/array-programs/tree/main/0942-di-string-match/) | Easy |
 <!---LeetCode Topics End-->
