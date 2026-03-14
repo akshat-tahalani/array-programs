@@ -41,6 +41,7 @@ solving 32 array questions on leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/akshat-tahalani/array-programs/tree/main/0022-generate-parentheses/) | Medium |
+| [0055-jump-game](https://github.com/akshat-tahalani/array-programs/tree/main/0055-jump-game/) | Medium |
 | [0392-is-subsequence](https://github.com/akshat-tahalani/array-programs/tree/main/0392-is-subsequence/) | Easy |
 | [1774-closest-dessert-cost](https://github.com/akshat-tahalani/array-programs/tree/main/1774-closest-dessert-cost/) | Medium |
 ## Array
@@ -48,6 +49,7 @@ solving 32 array questions on leetcode
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/akshat-tahalani/array-programs/tree/main/0040-combination-sum-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/akshat-tahalani/array-programs/tree/main/0047-permutations-ii/) | Medium |
+| [0055-jump-game](https://github.com/akshat-tahalani/array-programs/tree/main/0055-jump-game/) | Medium |
 | [0079-word-search](https://github.com/akshat-tahalani/array-programs/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/akshat-tahalani/array-programs/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/akshat-tahalani/array-programs/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -95,6 +97,7 @@ solving 32 array questions on leetcode
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/akshat-tahalani/array-programs/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/akshat-tahalani/array-programs/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/akshat-tahalani/array-programs/tree/main/0605-can-place-flowers/) | Easy |
 | [0942-di-string-match](https://github.com/akshat-tahalani/array-programs/tree/main/0942-di-string-match/) | Easy |
